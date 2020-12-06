@@ -1,3 +1,10 @@
+## Identifying Information:
+1. Name: Greta Cannon
+2. Student ID: 2369434
+3. Email: grcannon@chapman.edu
+4. Class: 298-01
+5. Assignment: cars
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
